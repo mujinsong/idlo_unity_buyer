@@ -7,6 +7,5 @@
     "v" : "这里需要替换成实际的v信息，可能是ios_105或者android_105等",
     "channel" : "这里需要替换成实际的channel信息，可能是common或者其他渠道" ,
     "network_status" : "wifi",
-    "app_type_name" :  "这里需要替换成实际的app_type_name信息，可能是安卓或者iOS等"  ,
-    "assd": "这里需要替换成实际的assd信息，可能是一个随机字符串"
+    "app_type_name" :  "这里需要替换成实际的app_type_name信息，可能是安卓或者iOS等"
 }
